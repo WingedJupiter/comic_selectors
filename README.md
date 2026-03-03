@@ -22,7 +22,7 @@ Supported sites use the following format:
   "url":"http://nedroid.com/",
   "title":"Nedroid",
   "imageUrl":"http://nedroid.com/comics/2009-02-12-beartato-cheerupface.jpg",
-  "imageSelector":"div#comic > img",
+  "imageSelector":"div.comic img",
   "imageIndex":"0",
   "firstSelector":".nav-first a",
   "firstIndex":"0",
